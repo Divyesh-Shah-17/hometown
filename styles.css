@@ -1,0 +1,47 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+   
+    text-align: center;
+    color:rgb(26, 174, 150);
+   
+    /* background: lightskyblue; */
+}
+.mt{
+    margin-top:0px;
+    padding-top:10px;
+}
+.img {
+    width: 150px;
+    height:150px;
+    margin-left:50px;
+    
+}
+.profile {
+    width: 150px;
+    height:150px;
+   
+    
+}
+.img:hover{
+    width: 200px;
+    height:200px;
+    
+}
+.hero{
+   
+    height:200px;
+    background-image: url("images/smriti.jpg");
+    background-size: cover;
+}
+.activity{
+    /* background: khaki; */
+}
